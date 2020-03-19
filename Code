@@ -1,0 +1,40 @@
+//Samia Haque
+//CISC 3130 MY9
+//Brooklyn College
+
+
+public class MusicTitles {
+	
+	//The movie node implementation
+	
+	private String title;
+	private int releaseyear;
+	private String[]genres;
+	private int movieID;
+	
+	//add methods 
+	//movie title field to extract the year is parsed to a separate value 
+	//stored in each node
+	
+	//ordered tree using Movie node
+	
+	//the movieBST implementation
+	
+	public class MovieBST{
+		private Movie first;
+		
+		public void subset(String start, String end) {
+			//Selects movie titles that fall alphabetically between start and end
+		}
+		//more methods are added
+		
+		//subset for a movie title is chosen
+		//movie titles sorted in binary search tree
+		//subset function acts like a filter
+		
+		//retrieving subsets
+		
+		Set = movies.subSet("Toy Story","Jumanji");
+		Set = movies.subSet("Grumpier Old Men","Waiting to Exhale");
+		Set = movies.subSet("Father of the Bride Aprt II","Heat");
+	}}
